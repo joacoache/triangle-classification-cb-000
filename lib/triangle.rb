@@ -20,8 +20,6 @@ class Triangle
       :isosceles
     else
       :scalene
-
-
     end
   end
 
@@ -30,6 +28,5 @@ class Triangle
       "check numbers"
     end
   end
-  
-end
 
+end
